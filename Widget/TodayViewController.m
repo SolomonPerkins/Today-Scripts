@@ -39,9 +39,9 @@ TodayViewController *todayViewController;
     if (! TodayScriptArray.sharedScripts.count)
     {
         TodayScript *script = [[TodayScript alloc] init];
-        script.label      = @"Welcome";
+        script.label      = @"Jamaica Stock Exchange";
         script.program    = @"/bin/sh";
-        script.script     = @"echo 'Click the Info button above to start adding scripts.'";
+        script.script     = @"'/usr/local/share/jamstock/jamstock.sh'";
         script.autoRun    = YES;
         script.showStatus = YES;
         [self.arrayController addObject:script];

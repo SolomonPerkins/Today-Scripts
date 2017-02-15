@@ -29,6 +29,7 @@
 		2265CC7319F89D18000802FB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2265CC7219F89D18000802FB /* MainMenu.xib */; };
 		2265CC7619F89D86000802FB /* XPC.xpc in CopyFiles */ = {isa = PBXBuildFile; fileRef = 223F9A4A19F89532000802FB /* XPC.xpc */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		22A1BFCD1A004D8C000802FB /* Icon Credit.txt in Resources */ = {isa = PBXBuildFile; fileRef = 22A1BFCC1A004D8C000802FB /* Icon Credit.txt */; };
+		D5044DEF1E54C5FF004AB174 /* jamstock.rb in Resources */ = {isa = PBXBuildFile; fileRef = D5044DEE1E54C5FF004AB174 /* jamstock.rb */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -126,6 +127,9 @@
 		2265B37A19FC53CA000802FB /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 		2265CC7219F89D18000802FB /* MainMenu.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
 		22A1BFCC1A004D8C000802FB /* Icon Credit.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Icon Credit.txt"; sourceTree = "<group>"; };
+		D5044DEC1E54C5B1004AB174 /* jamstock.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = jamstock.sh; sourceTree = "<group>"; };
+		D5044DED1E54C5DB004AB174 /* jamstock.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = jamstock.txt; sourceTree = "<group>"; };
+		D5044DEE1E54C5FF004AB174 /* jamstock.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = jamstock.rb; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -196,6 +200,9 @@
 				2265B37519FC519C000802FB /* AppIcon.icns */,
 				223F9A0719F894AF000802FB /* Info.plist */,
 				223F9A0B19F894AF000802FB /* main.m */,
+				D5044DEC1E54C5B1004AB174 /* jamstock.sh */,
+				D5044DED1E54C5DB004AB174 /* jamstock.txt */,
+				D5044DEE1E54C5FF004AB174 /* jamstock.rb */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -379,6 +386,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2265CC7319F89D18000802FB /* MainMenu.xib in Resources */,
+				D5044DEF1E54C5FF004AB174 /* jamstock.rb in Resources */,
 				2265B37619FC519C000802FB /* AppIcon.icns in Resources */,
 				22A1BFCD1A004D8C000802FB /* Icon Credit.txt in Resources */,
 			);

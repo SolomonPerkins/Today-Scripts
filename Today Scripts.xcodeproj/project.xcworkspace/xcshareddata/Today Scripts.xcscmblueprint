@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A03324BD62AD31C0EF4B40D1BF7471EB3E943AF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A03324BD62AD31C0EF4B40D1BF7471EB3E943AF4" : 9223372036854775807,
+    "EB201FADC8CBBC86CE39DD44B609DEE97AB3971B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8E49CA43-F470-4B98-BACB-29CCFF8B4E66",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A03324BD62AD31C0EF4B40D1BF7471EB3E943AF4" : "Today-Scripts\/",
+    "EB201FADC8CBBC86CE39DD44B609DEE97AB3971B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Today Scripts",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Today Scripts.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SolomonPerkins\/Today-Scripts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A03324BD62AD31C0EF4B40D1BF7471EB3E943AF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SolomonPerkins\/solomonperkins.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB201FADC8CBBC86CE39DD44B609DEE97AB3971B"
+    }
+  ]
+}
