@@ -5,11 +5,11 @@ A widget for running scripts in the Today View in MacOS Notification Center.
 This is a custom setup for stock market script. This scripts handles `Jamaica Stock Exchange` on the notification center as a custom widget.
 
 ### SETUP
-  - Copy `jamstock.rb` and the `jamstock.sh` to the `/usr/local/share/jamstock/` (you need to jamstock directory)
-  - Grant permission to all the files in the jamstock directory (r/w/x for owner,groups & others): run `chmod -Rv 777 /usr/local/share/jamstock`
+  - Copy `jamstock.rb` and the `jamstock.sh` to the `/usr/local/share/jamstock/` (you need to create the `jamstock` directory)
+  - Grant permission r/w/x access to all the files in the jamstock directory: run `chmod -Rv 777 /usr/local/share/jamstock`
   - Open Xcode and build the project.
-  - Open your notification panel (3 finger swipe form right side of touchpad)
-  - At the bottom will indicate `1 New` item. Click on this item and the widget to the notification panel.
+  - Open your Today panel (3 finger swipe form right side of touchpad)
+  - At the bottom, next to `Edit` button will indicate `1 New` item. Click on this item and the widget to the notification panel.
   
 ** Enjoy **
 
