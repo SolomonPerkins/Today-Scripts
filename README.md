@@ -1,7 +1,20 @@
 #Today Scripts
+A widget for running scripts in the Today View in MacOS Notification Center.
 
-A widget for running scripts in the Today View in OS X Yosemite's Notification Center.
+## MY CUSTOM STOCK SCRIPT INSTALLATION
+This is a custom setup for stock market script. This scripts handles `Jamaica Stock Exchange` on the notification center as a custom widget.
 
+### SETUP
+  - Copy `jamstock.rb` and the `jamstock.sh` to the `/usr/local/share/jamstock/` (you need to jamstock directory)
+  - Grant permission to all the files in the jamstock directory (r/w/x for owner,groups & others): run `chmod -Rv 777 /usr/local/share/jamstock`
+  - Open Xcode and build the project.
+  - Open your notification panel (3 finger swipe form right side of touchpad)
+  - At the bottom will indicate `1 New` item. Click on this item and the widget to the notification panel.
+  
+** Enjoy **
+
+
+# TECHNICAL DETAILS FROM FORKED PROJECT
 [**Download the latest build here.**](https://github.com/SamRothCA/Today-Scripts/releases)
 
 [See the wiki for a list of example scripts.](https://github.com/SamRothCA/Today-Scripts/wiki)
